@@ -1,4 +1,26 @@
-# test
+# Ecosystem
+
+## Features
+
+- Dynamic Import: Good
+- Nullish Coalescing: GOod
+- error.cause
+
+## Browser API
+
+- WebGL: difficult shit
+- Web Animations
+- WebRTC: not fun, a mess
+- Web Speech API: not interesting
+- WebSocket: GOOD
+- Page Visibility API
+- Broadcast Channel API: GREAT
+- Geolocation API: GREAT
+- Temporal API: new and interesting
+- Progressive Web App
+- WASM: overrated 
+
+## Testing
 
 - Jest: a horrible mess
 - Mocha: not interested
