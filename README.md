@@ -87,7 +87,7 @@
 ## Backend Frameworks
 
 - Express: Fine
-- Fastify: DOPE, make express suck less
+- **Fastify**: DOPE, make express suck less
 - Elysia: GREAT
 - Hono: GREAT
 
