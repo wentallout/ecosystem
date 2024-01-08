@@ -1,5 +1,9 @@
 # Ecosystem
 
+## 2023 Developer Survey
+
+https://survey.stackoverflow.co/2023/
+
 ## Features
 
 - Dynamic Import: Good
