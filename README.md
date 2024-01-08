@@ -23,7 +23,7 @@ Rust
 
 ## Top databases
 
-PostgreSQL
+**PostgreSQL**
 MySQL
 SQLite
 MongoDB
