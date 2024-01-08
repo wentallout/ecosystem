@@ -21,6 +21,44 @@ PowerShell
 Go
 Rust
 
+## Top databases
+
+PostgreSQL
+MySQL
+SQLite
+MongoDB
+Microsoft SQL Server
+Redis
+MariaDB
+Elasticsearch
+Oracle
+Dynamodb
+
+Firebase Realtime Database
+Cloud Firestore
+BigQuery
+Microsoft Access
+H2
+Cosmos DB
+Supabase
+InfluxDB
+Cassandra
+Snowflake
+Neo4J
+IBM DB2
+Solr
+Firebird
+Couch DB
+Clickhouse
+Cockroachdb
+Couchbase
+DuckDB
+Datomic
+RavenDB
+TiDB
+
+
+
 ## Features
 
 - Dynamic Import: Good
