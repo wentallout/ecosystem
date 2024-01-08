@@ -4,6 +4,23 @@
 
 https://survey.stackoverflow.co/2023/
 
+## Top programming language
+
+JavaScript
+HTML/CSS
+Python
+SQL
+TypeScript
+Bash/Shell (all shells)
+Java
+C#
+C++
+C
+PHP
+PowerShell
+Go
+Rust
+
 ## Features
 
 - Dynamic Import: Good
